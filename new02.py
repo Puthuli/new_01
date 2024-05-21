@@ -7,3 +7,4 @@ result = num1 + num2
 
 # Display the result
 print("Sum:", result)
+print("hello")
